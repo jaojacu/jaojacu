@@ -1,8 +1,15 @@
-##### NÃO TEM NADA AQUI 🐵
+##### BOAS VINDAS AO MEU PERFIL 🐵
 
-<!--
-**jaojacu/jaojacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estou estudando no [ALURA](https//:www.alura.com.br)
+-Estou me desenvolvendo na linguagem javascript
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
+
+### Você entrar em contato comigo 📫
+
+joao.mustefaga@escola.pr.gov.br
+
+![](https://media.tenor.com/d4sPgSJml54AAAAC/opihomm-funny.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
