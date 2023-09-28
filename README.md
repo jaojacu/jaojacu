@@ -9,7 +9,7 @@
 
 joao.mustefaga@escola.pr.gov.br
 
-![](https://media.tenor.com/d4sPgSJml54AAAAC/opihomm-funny.gif)
+![](https://media.tenor.com/JZxEu1mBeGwAAAAd/esqueleto.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
