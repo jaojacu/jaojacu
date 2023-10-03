@@ -9,4 +9,4 @@
 
 joao.mustefaga@escola.pr.gov.br
 
-![](https://media.tenor.com/sJMBHgj4lXEAAAAd/berserk-berserk-skeleton.gif)
+![](https://media.tenor.com/JZxEu1mBeGwAAAAd/esqueleto.gif)
